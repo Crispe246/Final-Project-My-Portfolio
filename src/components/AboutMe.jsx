@@ -1,6 +1,6 @@
 import React from 'react';
 import HoverBox from './HoverBox';
-import profileImg from '../PROFILE.jpg';
+import profileImg from "../profile.jpg";
 import AnimatedHeader from './AnimatedHeader';
 
 const AboutMe = () => {
